@@ -16,7 +16,7 @@ twdl is a twitter scraping tool.
 
 ```bash
 git clone --depth=1 https://github.com/sugiyamath/twdl.git
-cd twint && pip3 install . -r requirements.txt
+cd twdl && pip3 install . -r requirements.txt
 ```
 
 ## Example Usage
